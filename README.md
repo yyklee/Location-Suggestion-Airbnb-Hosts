@@ -4,7 +4,7 @@ This project is a part of the Udacity Data Science.
 
 
 ## Project Objective
-The purpose of this project is to practice analyzing real world data, and get data-driven insights about short term rental business with data provided by Airbnb Inside.
+The purpose of this project is to practice analyzing real world data, and get data-driven insights about short term rental business with data provided by [Airbnb Inside](https://www.kaggle.com/datasets/airbnb/seattle?datasetId=393&sortBy=voteCount).
 
 ### Methods Used
 * Data Cleaning
