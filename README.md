@@ -10,12 +10,10 @@ The purpose of this project is to practice analyzing real world data, and get da
 * Data Cleaning
 * Data Exploration
 * Data Visualization
-* Predictive Modeling
-* etc.
+* Predictive Modeling etc.
 
 ### Technologies
-* Python
-* Pandas, jupyter
+* Python, Jupyter Notebook
 
 ## Project Description
 These are the following questions I focused on in this analysis. 
