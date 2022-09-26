@@ -1,4 +1,4 @@
-# Airbnb
+# Airbnb in Seattle
 
 This project is a part of the Udacity Data Science.
 
